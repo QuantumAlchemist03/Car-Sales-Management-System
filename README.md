@@ -44,8 +44,10 @@ gcc car_sales.c -o car_sales
 - **Alif Sathar** - Core Logic, Sales Tracking, UI Enhancements
 - **Contributors Welcome!** Feel free to fork and improve the project!
 
-## License
-This project is licensed under the **MIT License**.
-
 ---
  **If you find this project useful, don't forget to ⭐ star the repository!**
+ ## License
+
+This project is **not open-source** and is protected under a **custom all-rights-reserved license**.  
+Unauthorized use, copying, or distribution is strictly prohibited. See [LICENSE.txt](LICENSE.txt) for details.
+
