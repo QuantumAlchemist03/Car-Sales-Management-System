@@ -18,7 +18,7 @@ This **Car Sales Management System** is a **C-based console application** design
 ### 🏗 **How to Run the Project**
 1️ **Clone the Repository:**
 ```sh
-git clone https://github.com/YourUsername/Car-Sales-Management.git
+git clone https://github.com/QuantumAlchemist03/Car-Sales-Management.git
 ```
 2️ **Compile the Program:**
 ```sh
