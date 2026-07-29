@@ -1,0 +1,14 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
